@@ -1,0 +1,6 @@
+[submodule "Nano"]
+	path = Nano
+	url = https://github.com/AkagiYuu/Nano
+[submodule "Esp"]
+	path = Esp
+	url = https://github.com/AkagiYuu/Esp
